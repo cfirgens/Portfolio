@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 #landingPhoto {
-    background: url("../images/landingdark.jpg") no-repeat center center fixed;
+    background: url("../images/landing.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
