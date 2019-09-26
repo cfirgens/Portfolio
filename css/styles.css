@@ -16,7 +16,7 @@ height: 100%;}
 
 #content {min-height: 100%; }
 #landingPhoto {
-    background: url("/Images/landing.jpg") no-repeat center center fixed;
+    background: url("Images/landing.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
